@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="f8bb0237-630a-4bdb-8bde-e709355b4135" name="linux" url="http://202.119.194.115">
+        <fileTransfer host="202.119.194.115" port="22" rootFolder="/usr/data1/ylf/wqj" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
